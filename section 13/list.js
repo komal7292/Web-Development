@@ -1,6 +1,5 @@
 window.setTimeout(function () {
   var todos = ['BUY NEW PEN']
-
   var input = window.prompt('what would you like to do?')
   while (input !== 'quit') {
     if (input === 'list') {
