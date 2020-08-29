@@ -16,8 +16,8 @@ window.setTimeout(function () {
 
   function listTodos () {
     console.log('---------')
-    todos.forEach(function (todo, p) {
-      console.log(p + ': ' + todo)
+    todos.forEach(function (todo, i) {
+      console.log(i + ': ' + todo)
     })
     console.log('---------')
   }
