@@ -1,7 +1,7 @@
-var userName = prompt("What is your Firstname?");
-var lastName = prompt("What is your lastname?");
-var age = prompt("What is your age?");
-alert("Your full name is "+ userName + " "+lastName + ".");
-alert("You are " + age + " Years old" + ".");
-alert("Nice to meet you "+ userName+".");
-alert("Thanks for using me "+".");
+var userName = window.prompt('What is your Firstname?')
+var lastName = window.prompt('What is your lastname?')
+var age = window.prompt('What is your age?')
+window.alert('Your full name is ' + userName + ' ' + lastName + '.')
+window.alert('You are ' + age + ' Years old' + '.')
+window.alert('Nice to meet you ' + userName + '.')
+window.alert('Thanks for using me ' + '.')
