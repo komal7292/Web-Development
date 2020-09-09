@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+}
+img{
+    width: 30%;
+    float: left;
+    height: 202.5px;
+}
+body{
+    margin-left: 9%;
+    background-image: url(https://images-na.ssl-images-amazon.com/images/I/418afD1fVxL.jpg);
+    background-size: cover;
+}
