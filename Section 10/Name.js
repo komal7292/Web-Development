@@ -1,7 +1,0 @@
-var userName = window.prompt('What is your Firstname?')
-var lastName = window.prompt('What is your lastname?')
-var age = window.prompt('What is your age?')
-window.alert('Your full name is ' + userName + ' ' + lastName + '.')
-window.alert('You are ' + age + ' Years old' + '.')
-window.alert('Nice to meet you ' + userName + '.')
-window.alert('Thanks for using me ' + '.')
