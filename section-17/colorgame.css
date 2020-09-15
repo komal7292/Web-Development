@@ -25,3 +25,8 @@ h2 {
   color: magenta;
   padding-left: 32%;
 }
+#message {
+  color: white;
+  font-size: 30px;
+  padding-left: 30%;
+}
