@@ -1,0 +1,6 @@
+var reverseWords = function(s) {
+   var removedSpaces = s.trim().split(/\s+/).reverse().join(" ")
+   return removedSpaces
+};
+
+console.log(reverseWords(s = "the sky is blue"))
